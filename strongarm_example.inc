@@ -1,2 +1,2 @@
-  $strongarm->value = '#edit-field-test-field, .views-exposed-form select, #new-changed-field input';
+  $strongarm->value = '.second-change, #edit-field-test-field, #second-change-id, .views-exposed-form';
 
